@@ -17,16 +17,14 @@ Une interface **Streamlit** permet d'entrer deux villes et d'afficher le chemin 
 
 ## Captures d'écran
 
-### 1. Requête plus court chemin
+### 1. Requêtes sur Neo4j
 ![Requête shortest path](images/shortest_path_request.png)
 
-### 2. Résultat du plus court chemin
 ![Résultat shortest path](images/shortest_path_result.png)
 
-### 3. Tableau de bord Streamlit - Accueil
 ![Dashboard home](images/dashboard_home.png)
 
-### 4. Création du modèle ML
+### 2. Tableau de bord Streamlit - Accueil
 ![Création du modèle](images/create_model.png)
 
 
