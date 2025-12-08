@@ -14,13 +14,7 @@ Une interface **Streamlit** permet d'entrer deux villes et d'afficher le chemin 
 - Neo4j Desktop (ou Neo4j Aura)
 - Pip
 
-## Installation
 
-1. Cloner le projet
-```bash
-git clone <TON_REPO_URL>
-cd projet2
-'''
 ## Captures d'écran
 
 ### 1. Requête plus court chemin
@@ -34,5 +28,6 @@ cd projet2
 
 ### 4. Création du modèle ML
 ![Création du modèle](images/create_model.png)
+
 
 
