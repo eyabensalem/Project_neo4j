@@ -1,4 +1,4 @@
-# Projet 2 : Chemin le plus court entre villes avec Neo4j
+#Projet 2 : Chemin le plus court entre villes avec Neo4j
 
 ## Description
 Ce projet utilise Neo4j pour modéliser un réseau de villes avec leurs distances et calculer le chemin le plus court entre deux villes.  
@@ -33,3 +33,4 @@ cd projet2
 
 ### 4. Création du modèle ML
 ![Création du modèle](images/create_model.png)
+
