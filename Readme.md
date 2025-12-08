@@ -1,4 +1,4 @@
-#Projet 2 : Chemin le plus court entre villes avec Neo4j
+# Projet 2 : Chemin le plus court entre villes avec Neo4j
 
 ## Description
 Ce projet utilise Neo4j pour modéliser un réseau de villes avec leurs distances et calculer le chemin le plus court entre deux villes.  
@@ -20,6 +20,7 @@ Une interface **Streamlit** permet d'entrer deux villes et d'afficher le chemin 
 ```bash
 git clone <TON_REPO_URL>
 cd projet2
+'''
 ## Captures d'écran
 
 ### 1. Requête plus court chemin
@@ -33,4 +34,5 @@ cd projet2
 
 ### 4. Création du modèle ML
 ![Création du modèle](images/create_model.png)
+
 
