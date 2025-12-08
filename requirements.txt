@@ -1,0 +1,6 @@
+python-dotenv
+pandas
+flask
+streamlit
+requests
+neo4j
