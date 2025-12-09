@@ -1,12 +1,12 @@
-city1,city2,distance
-Paris,Lyon,465
-Lyon,Marseille,315
-Paris,Bordeaux,590
-Bordeaux,Toulouse,245
-Toulouse,Marseille,405
-Paris,Lille,225
-Lille,Bruxelles,110
-Bruxelles,Amsterdam,210
-Lyon,Genève,150
-Genève,Milan,320
-Milan,Marseille,490
+city1,city2,distance,transport,city1_pop,city2_pop,region1,region2
+Paris,Lyon,465,train,2148000,515695,Île-de-France,Auvergne-Rhône-Alpes
+Lyon,Marseille,315,train,515695,861635,Auvergne-Rhône-Alpes,Provence-Alpes-Côte d'Azur
+Paris,Bordeaux,590,train,2148000,254436,Île-de-France,Nouvelle-Aquitaine
+Bordeaux,Toulouse,245,road,254436,486828,Nouvelle-Aquitaine,Occitanie
+Toulouse,Marseille,405,road,486828,861635,Occitanie,Provence-Alpes-Côte d'Azur
+Paris,Lille,225,train,2148000,233098,Île-de-France,Hauts-de-France
+Lille,Bruxelles,110,train,233098,1191604,Hauts-de-France,Bruxelles-Capitale
+Bruxelles,Amsterdam,210,train,1191604,821752,Bruxelles-Capitale,North Holland
+Lyon,Genève,150,road,515695,203856,Auvergne-Rhône-Alpes,Geneva
+Genève,Milan,320,plane,203856,1366180,Geneva,Lombardy
+Milan,Marseille,490,plane,1366180,861635,Lombardy,Provence-Alpes-Côte d'Azur
